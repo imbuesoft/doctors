@@ -1,2 +1,2 @@
 # doctors
-searcg doctors
+search doctors
